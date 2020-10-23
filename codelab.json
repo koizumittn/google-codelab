@@ -1,0 +1,26 @@
+{
+  "environment": "web",
+  "format": "html",
+  "prefix": "https://storage.googleapis.com",
+  "mainga": "UA-49880327-14",
+  "updated": "2020-10-23T14:02:05Z",
+  "id": "google-codelab-test",
+  "duration": 0,
+  "title": "Google Codelabのテスト",
+  "authors": "Tetsunosuke Koizumi",
+  "summary": "Google Codelabのテスト",
+  "source": "1AFFf9zKfAyCmJ2_Ljc6tI3Q69Dx_hyyrUtGdYYRbcgc",
+  "theme": "tutorial",
+  "status": [
+    "draft"
+  ],
+  "category": [
+    "tutorial"
+  ],
+  "tags": [
+    "web"
+  ],
+  "feedback": "https://github.com/googlecodelabs/your-first-pwapp/issues",
+  "ga": "UA-52746336-1",
+  "url": "google-codelab-test"
+}
